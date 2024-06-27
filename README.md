@@ -1,4 +1,4 @@
-
+ 
 # RDBE: Reasoning Distillation-Based Evaluation Enhances Automatic Essay Scoring
 
 ## Abstract
@@ -24,13 +24,6 @@ cd rdbe
 
 # Install dependencies
 pip install -r requirements.txt
-Usage
-Detailed instructions on how to use the project:
-
-sh
-Copy code
-# Example command to run the model
-python evaluate.py --input your_essay.txt
 Methodology
 Our method involves utilizing two main steps:
 
